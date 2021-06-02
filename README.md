@@ -10,4 +10,3 @@ This application allows you to schedule your day
 ## examples of the app
 
 ![Example 1](Example1.png)
-![Example 2](Example2.png)
